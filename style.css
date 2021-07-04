@@ -1,0 +1,36 @@
+body{
+    
+    margin: 0px;
+    background-color: skyblue;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    text-align: justify;
+    margin-bottom: 25px;
+}
+.text-color{
+    color: white;
+}
+.link-style{
+    text-decoration: none;
+    width: 80px;
+    padding: 10px;
+    color: white;
+    border-radius: 7px;
+    background-image: radial-gradient(orange,tomato);
+}
+.flexible{
+    display: flex;
+    margin: 5% 5% 250px 5%;
+    
+}
+.divider{
+    width: 50%;
+    margin-right: 20px;
+}
+.divider img{
+    width: 100%;
+}
